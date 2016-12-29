@@ -1,5 +1,5 @@
 	Validation Rule                                                                           Object
-
+Validation Rule
 Please fill value to the Order No and Purchase Date                                           contact
 HM Order Number can contain numeric values only                                               order
 Mailing_Address_should_be_populated                                                           contact
