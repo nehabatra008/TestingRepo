@@ -1,0 +1,10 @@
+	Validation Rule                                                                           Object
+
+Please fill value to the Order No and Purchase Date                                           contact
+HM Order Number can contain numeric values only                                               order
+Mailing_Address_should_be_populated                                                           contact
+Please mark the Snr Consultant VT Completed checkbox and provide details to Date Completed field from the previous page to proceed: []                                                                                   contact
+Please mark the Snr Consultant VT Completed checkbox and provide details to Date Completed field from the previous page to proceed: []                                                                                    contact
+Shipping Address should be populated, City is mandatory                                        contact
+Only flipped dinners can be cooked by consultants from other Distributorship:[Consultant__c]   Dinner
+Please fill value to the Order No and Purchase Date: []                                        contact
